@@ -21,5 +21,5 @@
 
 ### Fun fact: 🙃
 
-- I live 20 minutes away from a Poas Volcano National Park with the second largest crater aroung the world.. but I have never been there 😅
+- I live 20 minutes away from the Poas Volcano National Park, which has the second largest active crater around the world.. but I have never been there 😅
 
