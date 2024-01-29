@@ -2,9 +2,9 @@
 
 ### I am a Frontend Engineer from Costa Rica 💻🇨🇷
 
-- 💻 I’m currently working as a frontend engineer at [Swimlane](https://swimlane.com/)
+- 💻 I’m currently working as a frontend engineer at [GFT](https://www.gft.com/) as contractor for [Entrypoint Networks](https://www.entpnt.com/)
 - 📍 Based in Costa Rica (willing to relocate)
-- 📚 Learning [React](https://reactjs.org/)
+- 📚 I love working with [React](https://reactjs.org/) or [Angular](https://angular.io/)
 
 
 ### You can contact me: 
