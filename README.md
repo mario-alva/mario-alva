@@ -2,7 +2,7 @@
 
 ### I am a Frontend Engineer from Costa Rica 💻🇨🇷
 
-- 💻 I’m currently working as a frontend engineer at [GFT](https://www.gft.com/) as contractor for [Entrypoint Networks](https://www.entpnt.com/)
+- 💻 I’m currently working as a frontend engineer at [GFT](https://www.gft.com/) as contractor for [PSG Equity](https://www.psgequity.com/)
 - 📍 Based in Costa Rica (willing to relocate)
 - 📚 I love working with [React](https://reactjs.org/) or [Angular](https://angular.io/)
 
